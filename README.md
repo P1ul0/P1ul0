@@ -17,10 +17,9 @@
     <h1>Study skills:</h1>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=angular,docker,postgres />
+          
       </a>          
-  </div>
-            
-</div>
+    </div>
   
   ##
   
