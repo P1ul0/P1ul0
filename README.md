@@ -9,7 +9,7 @@
 <div style="display: inline_block" align="center"><br>  
 <h1>Main skills:</h1>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,linux" />
 </a>
 <h1>Skills:</h1>
 <a href="https://skillicons.dev">
