@@ -7,7 +7,8 @@
 </div>
   
   <div style="display: inline_block"><br>
-  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+  <img>https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3</img>
+  </div>
             
 </div>
   
