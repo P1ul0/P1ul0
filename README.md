@@ -5,7 +5,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P1ul0&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
-
+<div>
     <div style="display: inline_block" align="center"><br>  
     <h1>Main skills:</h1>
     <a href="https://skillicons.dev">
@@ -20,7 +20,7 @@
         <img src="https://skillicons.dev/icons?i=angular,docker,postgres />  
       </a>          
     </div>
-  
+  </div>
   ##
   
   ![Contribution](https://activity-graph.herokuapp.com/graph?username=P1ul0&theme=gotham&hide_border=true&area=true_color=&title_color=07EE46&bg_color=000000&color=07EE46) 
