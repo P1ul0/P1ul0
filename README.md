@@ -22,10 +22,7 @@
 </div>
   ##
   
-  ![Contribution](https://activity-graph.herokuapp.com/graph?username=P1ul0&theme=gotham&hide_border=true&area=true_color=&title_color=07EE46&bg_color=000000&color=07EE46) 
-  
- ##
-  
+
 <div> 
    <a href = "mailto:paulocesar147852@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
