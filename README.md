@@ -5,9 +5,19 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P1ul0&layout=compact&langs_count=7&theme=radical"/>
 
 </div>
-  
-  <div style="display: inline_block"><br>
-  <img>https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3</img>
+    <div style="display: inline_block" align="center"><br>  
+    <h1>Main skills:</h1>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=docker,java,spring,mysql" />
+    </a>
+    <h1>Skills:</h1>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,java,spring,mysql,html,css,js,ts,nodejs,react,mongodb&perline=6" />
+    </a>    
+    <h1>Study skills:</h1>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=angular,docker,postgres />
+      </a>          
   </div>
             
 </div>
