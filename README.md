@@ -13,11 +13,11 @@
 </a>
 <h1>Skills:</h1>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,java,spring,mysql,html,css,js,ts,nodejs,react,mongodb&perline=6" />
+  <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,nodejs,react,java,spring,mysql,postgres,mongodb,docker&perline=6" />
 </a>    
 <h1>Study skills:</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,postgres" />  
+    <img src="https://skillicons.dev/icons?i=c#,.net" />  
   </a>          
 </div>
   
