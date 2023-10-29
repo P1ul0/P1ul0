@@ -9,7 +9,7 @@
 <div style="display: inline_block" align="center"><br>  
 <h1>Main skills:</h1>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,linux" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,linux" />
 </a>
 <h1>Skills:</h1>
 <a href="https://skillicons.dev">
@@ -17,7 +17,7 @@
 </a>    
 <h1>Study skills:</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c#,.net" />  
+    <img src="https://skillicons.dev/icons?i=c#,net" />  
   </a>          
 </div>
   
