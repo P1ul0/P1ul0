@@ -17,7 +17,7 @@
 </a>    
 <h1>Study skills:</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,net" />  
+    <img src="https://skillicons.dev/icons?i=cs,net,angular" />  
   </a>          
 </div>
   
